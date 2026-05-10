@@ -1,6 +1,6 @@
 # Fairness Evaluation of Gender and Age in Medical Disease Diagnosis
 
-**DSCI 531 - Fair Informatics** | University of Southern California | 2026
+**DSCI 531 - Fairness in Artificial Intelligence** | University of Southern California | 2026
 
 **Authors:** Vedant Bhenia, Prem Doshi, Vineet Kumar Loyer
 
